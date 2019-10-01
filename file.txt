@@ -1,3 +1,6 @@
+//my second line of code
+zoshto problemot e da go vraka od serverot na covekot
+
 // my first line of code 
 dodavam demek neshto
 
