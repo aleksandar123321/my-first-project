@@ -1,3 +1,5 @@
+test git ignore
+
 //my second line of code
 zoshto problemot e da go vraka od serverot na covekot
 
